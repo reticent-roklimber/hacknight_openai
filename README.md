@@ -27,7 +27,9 @@ The API collects relevant information from the user and retrive data using struc
    ```bash
    $ sudo apt-get install python3-pip
    ```
-4. Install PyWebIO and OpenAI
+4. Add your [API key](https://beta.openai.com/account/api-keys) to the config file
+
+5. Install PyWebIO and OpenAI
 
    ```bash
    $ pip3 install pywebio openai
