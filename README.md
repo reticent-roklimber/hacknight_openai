@@ -1,8 +1,8 @@
 ![Github](https://user-images.githubusercontent.com/64391274/211215734-bbc57b92-9a71-496d-873e-3eedc7523916.png)
 
 
-# Project Name
-An PyWeb based API to retrive the best places for stay at any user defined location
+# Where To Go
+Where To Go is a  PyWeb based API to retrive the best places for stay at any user defined location
 
 ## Team members
 1. Abhay Vishnu [https://github.com/reticent-roklimber]
