@@ -14,8 +14,8 @@ bD8FLFoONCBKGLkCfMaz
 ## How it Works ?
 The API collects relevant information from the user and retrive data using structred quries to the OpenAI GPT03- Text Davinci 003 Model.
 ## Libraries used
-PyWebIO - 1.7.1
-Openai - 0.26.1
+[PyWebIO - 1.7.1](https://www.pyweb.io/)
+[Openai - 0.26.1](https://github.com/openai/openai-python)
 
 ## How to configure
 1. If you don’t have Python installed, [install it from here](https://www.python.org/downloads/)
@@ -34,7 +34,7 @@ Openai - 0.26.1
    ```
 
 ## How to Run
-Open the terminal in the folder
+Open the terminal
 
    ```bash
    $ python3 main.py
