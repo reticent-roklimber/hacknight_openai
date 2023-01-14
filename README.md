@@ -15,7 +15,9 @@ bD8FLFoONCBKGLkCfMaz
 1. Explaining the working of project
 2. Embed video of project demo
 ## Libraries used
-Library Name - Version
+PyWebIO - 1.7.1
+Openai - 0.26.1
+
 ## How to configure
 Instructions for setting up project
 ## How to Run
